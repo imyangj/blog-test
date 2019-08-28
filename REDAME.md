@@ -11,7 +11,7 @@
 1. tictac
 2. star salad
 
-我会的一点点代码，写给你瞧瞧
+我会的一点点代码，`html`写给你瞧瞧
 
 ````<!DOCTYPE html>
 <html lang="en">
